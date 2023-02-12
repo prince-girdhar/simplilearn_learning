@@ -1,0 +1,4 @@
+ hello this is the first file in the 
+ first branch in git we have just created
+ so let's check it out
+ how does it work
