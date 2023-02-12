@@ -5,3 +5,7 @@
 
 
  so buckle up
+
+
+ now adding some new line 
+ to see how does diff command behaves
